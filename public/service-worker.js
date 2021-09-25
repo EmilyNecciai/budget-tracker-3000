@@ -4,9 +4,8 @@ const DATA_CACHE_NAME = 'bt3k-data-cache-v2';
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
-  '/favicon.ico',
   '/manifest.json',
-  '/index.js',
+  '/js/index.js',
   '/css/styles.css',
   '/icons/icon-72x72.png',
   '/icons/icon-96x96.png',
