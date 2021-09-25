@@ -22,14 +22,14 @@ https://evening-sea-75115.herokuapp.com/
 ### Preview 
 
 Image 1: Online
-![Image 1]()
+![Image 1](https://github.com/EmilyNecciai/budget-tracker-3000/blob/dc2b9ee2295b653e150581bec6e3e497fb0e90e5/public/img/app-screenshot.png)
 
 Image 2: Adding Offline with a view of IndexedDB storage
-![Image 2]()
+![Image 2](https://github.com/EmilyNecciai/budget-tracker-3000/blob/dc2b9ee2295b653e150581bec6e3e497fb0e90e5/public/img/app-screenshot2.png)
 
 
 Image 3: Back Online After Adding Expenses and Deposits
-![Image 3]()
+![Image 3](https://github.com/EmilyNecciai/budget-tracker-3000/blob/dc2b9ee2295b653e150581bec6e3e497fb0e90e5/public/img/app-screenshot3.png)
 
 
 ## Project Descrtiption 
