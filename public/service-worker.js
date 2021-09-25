@@ -1,5 +1,5 @@
 const CACHE_NAME = 'bt3k-cache-v2';
-const DATA_CACHE_NAME = 'bt3k-data-cache-v2';
+const DATA_CACHE_NAME = 'data-cache-v2';
 
 const FILES_TO_CACHE = [
   '/',
